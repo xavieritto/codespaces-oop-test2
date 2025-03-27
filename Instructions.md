@@ -21,3 +21,23 @@ the number of sides a shape has, the length of each side, and a method that calc
 the perimeter and returns it. The class must not print any value to the screen or prompt 
 the user to enter any value. All user input and output to the screen must be done in the 
 main function.
+
+# Sample Output
+
+## Execution 1
+```
+Enter the number of sides the shape has: 2
+Enter length: 3
+Enter length: 4
+Perimeter: 7
+```
+## Execution 2
+```
+Enter the number of sides the shape has: 5
+Enter length: 2
+Enter length: 6
+Enter length: 9
+Enter length: 8
+Enter length: 7
+Perimeter: 32
+```
